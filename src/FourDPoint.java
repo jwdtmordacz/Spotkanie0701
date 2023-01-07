@@ -17,9 +17,9 @@ public class FourDPoint extends Point {
     }
 
     public void show() {
-        System.out.println(x);
-        System.out.println(y);
-        System.out.println(z);
-        System.out.println(t);
+        System.out.println(this.x);
+        System.out.println(this.y);
+        System.out.println(this.z);
+        System.out.println(this.t);
     }
 }
